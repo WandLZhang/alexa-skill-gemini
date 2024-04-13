@@ -14,7 +14,7 @@ Create an Alexa-hosted Skill (Python) on Alexa: (_Create Skill_)
 3. Click _Next_. In Experience Type, select: Other > Custom > _Alexa-hosted (Python)_
 4. _Hosting region_: You can leave the default _US East (N. Virginia)_
 5. In _Templates_: Click _Import Skill_
-6. Enter the repository address: https://github.com/Machally/skill-alexa-geminiChat.git and confirm.
+6. Enter the repository address: https://github.com/WandLZhang/alexa-skill-gemini.git and confirm.
 
 ## Configuring the Skill
 When you finish importing _Invocations_ > _Skill Invocation Name_:
